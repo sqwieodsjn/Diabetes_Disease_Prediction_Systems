@@ -6,13 +6,13 @@ An end-to-end Machine Learning web application that predicts the likelihood of d
 
 ## 🌐 Live Demo
 
-👉 [https://your-app-name.onrender.com](https://diabetes-disease-prediction-systems.onrender.com/predict)
+👉(https://diabetes-disease-prediction-systems.onrender.com/predict)
 
 ---
 
 ## 📂 GitHub Repository
 
-👉 [https://github.com/your-username/your-repo](https://github.com/sqwieodsjn/Diabetes_Disease_Prediction_Systems)
+👉 (https://github.com/sqwieodsjn/Diabetes_Disease_Prediction_Systems)
 
 ---
 
