@@ -4,19 +4,19 @@ An end-to-end Machine Learning web application that predicts the likelihood of d
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-👉(https://diabetes-disease-prediction-systems.onrender.com/predict)
-
----
-
-## 📂 GitHub Repository
-
-👉 (https://github.com/sqwieodsjn/Diabetes_Disease_Prediction_Systems)
+https://diabetes-disease-prediction-systems.onrender.com/
 
 ---
 
-## 📌 Project Overview
+## GitHub Repository
+
+ https://github.com/sqwieodsjn/Diabetes_Disease_Prediction_Systems
+
+---
+
+## Project Overview
 
 This project demonstrates the complete lifecycle of a Machine Learning application:
 
@@ -29,25 +29,25 @@ This project demonstrates the complete lifecycle of a Machine Learning applicati
 
 ---
 
-## 🧠 Machine Learning Models Used
+## Machine Learning Models Used
 
 * Logistic Regression
 * Random Forest Classifier
 * Support Vector Machine (SVM)
 * XGBoost Classifier
 
-📊 Models were evaluated using:
+Models were evaluated using:
 
 * Accuracy
 * Precision
 * Recall
 * F1 Score
 
-👉 The best-performing model was selected for deployment.
+The best-performing model was selected for deployment.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * Pima Indians Diabetes Dataset
 
@@ -68,7 +68,7 @@ This project demonstrates the complete lifecycle of a Machine Learning applicati
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 * Python
 * Flask
@@ -82,7 +82,7 @@ This project demonstrates the complete lifecycle of a Machine Learning applicati
 
 ---
 
-## 🔁 Project Workflow
+## Project Workflow
 
 1. Data Cleaning (handling missing values)
 2. Exploratory Data Analysis (EDA)
@@ -95,7 +95,7 @@ This project demonstrates the complete lifecycle of a Machine Learning applicati
 
 ---
 
-## 🖥️ Web Application
+## Web Application
 
 * User-friendly interface to input medical data
 * Real-time prediction output
@@ -103,9 +103,9 @@ This project demonstrates the complete lifecycle of a Machine Learning applicati
 
 ---
 
-## 🔗 API Endpoint
+## API Endpoint
 
-### 📍 POST `/predict_api`
+### POST `/predict_api`
 
 #### Request (JSON):
 
@@ -133,7 +133,7 @@ This project demonstrates the complete lifecycle of a Machine Learning applicati
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the repository
 
@@ -168,15 +168,15 @@ python app.py
 
 ---
 
-## 📈 Sample Inputs
+## Sample Inputs
 
-### 🟢 Low Risk
+### Low Risk
 
 * Glucose: 90
 * BMI: 24
 * Age: 25
 
-### 🔴 High Risk
+### High Risk
 
 * Glucose: 165
 * BMI: 36
@@ -184,7 +184,7 @@ python app.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 disease-prediction/
@@ -206,13 +206,13 @@ disease-prediction/
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 The application is deployed on Render and accessible via a public URL.
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Add input validation
 * Improve UI/UX design
@@ -222,15 +222,15 @@ The application is deployed on Render and accessible via a public URL.
 
 ---
 
-## 💬 Conclusion
+## Conclusion
 
 This project demonstrates a full-stack Machine Learning workflow—from data preprocessing to model deployment and API integration—showcasing both ML and backend development skills.
 
 ---
 
-## 👤 Author
+## Author
 
-**Your Name**
+Shibin T
 
-* LinkedIn: https://linkedin.com/in/your-profile
-* GitHub: https://github.com/your-username
+* LinkedIn: www.linkedin.com/in/shibin-t
+* GitHub: https://github.com/sqwieodsjn/Diabetes_Disease_Prediction_Systems
